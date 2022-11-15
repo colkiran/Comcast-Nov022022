@@ -1,0 +1,70 @@
+
+
+Functions -
+    create
+    call
+    pass arguments
+        varaible lenght args
+    return value
+    doc strings
+    lambdas
+    scope of a variable
+    nested functions
+    closures
+    HOF
+    Decorators
+    iterators
+    generators
+    coroutines
+
+
+oops
+    classes
+    objects
+    constructors
+    destructors
+    instance variables
+    class attributes
+    class methods
+    static methods
+    magic methods
+    private variables
+    property method
+    inheritance
+        multiple
+        multilevel
+    Abstract Class
+    Abstract method
+    Polymorphism
+    Ducktypes
+    Singleton
+
+Tuples
+------
+1. tuples are immutable lists
+
+anything in python is an object
+--------------------------------
+t1 = (1, 2, 3, 4, 5)
+t1 is an object of class tuple
+
+
+sets
+----
+
+
+sets
+----
+{1, 2, 3, 4, 5, 6}   => set
+
+1. sets are a collection of unique values
+2. sets are unordered collection
+3. sets are not subscriptable (cannot be indexed)
+4. sets are mutable
+
+
+Functions
+---------
+
+
+

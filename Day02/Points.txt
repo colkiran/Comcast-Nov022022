@@ -1,0 +1,32 @@
+
+list and dictionary Comprehension
+---------------------------------
+comprehension means iterating through a collection using lambda syntax
+
+iterators, generators and coroutines
+-------------------------------------
+
+iterators
+---------
+
+Scope of a variable
+-------------------
+1. global
+2. local
+3. non local
+
+Decorator
+---------
+
+def diff(x, y)
+    return(x - y)
+
+diff(20, 10)        => 10
+diff(20, 8)         => 12
+
+diff(8, 20)         =>-12
+
+
+
+
+

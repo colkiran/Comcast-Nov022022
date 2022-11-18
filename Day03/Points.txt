@@ -1,0 +1,56 @@
+
+HOF
+---
+
+
+design a decorator in such a way that it will always return a positive number when the diff function is called.....
+
+
+def diff(x, y):
+    return x - y
+
+OOPS
+----
+Object Oriented Concepts
+------------------------
+1. Inheritance      -   implement a new rule
+2. Polymorphism     -
+3. Abstraction      -
+4. Encapsulation
+
+
+Banking Project
+---------------
+Late 90's - No Debit Card
+
+Bank software
+-------------
+
+class Withdraw()
+    1. self cheque
+    2. Demand Draft
+    3. cheque
+
+class DebitcCard(Withdraw):
+    1. self cheque
+    2. Demand Draft
+    3. cheque
+    4. debit card
+
+
+Class  -  blue print of your business
+
+self => store the name of the object that called the method
+
+
+class methods
+-------------
+1. change the class attribute
+
+operator => associated with method __add__() => magic methods
+
+
+
+
+
+
